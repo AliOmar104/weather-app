@@ -1,4 +1,4 @@
-const API_KEY = '5d426d3dd076b82346b9d67da96087c0';
+const API_KEY = 'cf008cfee3044f5fa4169c7354212a11';
 
 const cities = [
   { name: 'Cairo', country: 'Egypt', timezone: 'Africa/Cairo' },
